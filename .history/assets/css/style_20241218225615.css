@@ -214,7 +214,7 @@ article {
 .icon-box ion-icon { --ionicon-stroke-width: 35px; }
 
 .yizhan-link img {
-  width: 24px; /* 设置图片宽度 */
+  width: 18px; /* 设置图片宽度 */
   height: auto; /* 保持高度自动调整 */
 }
 
