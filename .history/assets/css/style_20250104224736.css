@@ -213,13 +213,6 @@ article {
 
 .icon-box ion-icon { --ionicon-stroke-width: 35px; }
 
-.icon-box img {
-  max-width: 100%; /* 限制图片宽度不能超过父容器的宽度 */
-  max-height: 100%; /* 限制图片高度不能超过父容器的高度 */
-  object-fit: contain; /* 保持图片的宽高比例并适应到容器内 */
-  border-radius: inherit; /* 如果需要图片也有圆角，可以继承父元素的圆角 */
-}
-
 .yizhan-link img {
   width: 24px; /* 设置图片宽度 */
   height: auto; /* 保持高度自动调整 */
@@ -1051,16 +1044,16 @@ max-width: 100%; /* 确保宽度限制在父容器内 */
 
 .project-category {
   color: var(--white-2);
-  font-size: var(--fs-7);
-  font-weight: var(--fw-250);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-300);
   word-wrap: break-word;
   white-space: normal;
 }
 
 .project-pub {
   color: var(--light-gray-70);
-  font-size: var(--fs-8);
-  font-weight: var(--fw-150);
+  font-size: var(--fs-7);
+  font-weight: var(--fw-250);
   word-wrap: break-word;
   white-space: normal;
 }
