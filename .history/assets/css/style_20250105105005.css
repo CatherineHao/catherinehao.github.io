@@ -1052,7 +1052,7 @@ max-width: 100%; /* 确保宽度限制在父容器内 */
 .project-category {
   color: var(--white-2);
   font-size: var(--fs-7);
-  font-weight: var(--fw-300);
+  font-weight: var(--fw-400);
   line-height: 1.2;
   word-wrap: break-word;
   white-space: normal;
